@@ -1,2 +1,1 @@
-# project
-i like cheese
+# PRO-C68-Template
